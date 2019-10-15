@@ -2,6 +2,6 @@
 *.log*
 =======
 *.log*
-*tmp/
-.txt*
+*tmp\
+.log*
 >>>>>>> test
