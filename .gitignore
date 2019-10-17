@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-*.log*
-<<<<<<< HEAD
-=======
 *.log*
 *tmp\
 .log*
->>>>>>> test
-=======
-*tmp\
-.log*
->>>>>>> test
